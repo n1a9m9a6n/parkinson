@@ -8,7 +8,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.metrics import accuracy_score
 
 #- Read the data
-df=pd.read_csv("D:\\Data Science\\Projects\\Parkinson Disease\\parkinsons.data")
+df=pd.read_csv("parkinsons.data")
 #print(df.head())
 
 #Get the features and labels
